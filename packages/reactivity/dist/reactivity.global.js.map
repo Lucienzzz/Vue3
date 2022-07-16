@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/effect.ts", "../src/index.ts"],
+  "sourcesContent": ["export function effect() {\r\n\r\n}", "import {effect} from \"./effect\"\r\nimport {reactivity} from \"./reactivity\";\r\n\r\nconsole.log(effect)"],
+  "mappings": ";;AAAO,oBAAkB;AAAA,EAEzB;;;ACCA,UAAQ,IAAI,MAAM;",
+  "names": []
+}
